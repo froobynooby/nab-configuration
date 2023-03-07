@@ -5,6 +5,8 @@ plugins {
 
 group 'com.froobworld'
 version '1.0.2'
+sourceCompatibility = 1.17
+targetCompatibility = 1.17
 
 repositories {
     mavenCentral()
